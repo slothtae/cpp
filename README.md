@@ -3,4 +3,4 @@
 C++ DSA playlist link : <a href="https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA">Click here</a> . Do check it out if you are interested.</br>
 I'm following <a href="https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA">this</a> course and I'm completing the homework programs 
 as given in the videos.<br>The programs are uploaded serially according to the course lectures. I'm uploading solutions<br>from lecture 4 and onward only. This is just
-a collection of my solution for the task or<br>assignment of the course . There won't be any explanation with the code, I'm just collecting my code on github.
+a collection of my solution for the task or<br>assignment of the course. I'm just collecting my code on github.
