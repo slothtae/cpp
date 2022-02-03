@@ -21,6 +21,10 @@ int main(){
   int n;
   cout<<"Input a number : ";
   cin>>n;
-  cout<<"Reversed number : "<<reverse(n)<<endl;
+  int result = reverse(n);
+  if(result)
+    cout<<"Reversed number : "<<result<<endl;
+  else
+    cout<<"The reversed number not in range of 32 bit\n";
   return 0;
 }
